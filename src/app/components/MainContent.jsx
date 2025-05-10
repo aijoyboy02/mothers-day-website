@@ -6,7 +6,7 @@ import MemoriesCard from "./MemoriesCard"
 import FinalCard from "./FinalCard"
 import NavigationButtons from "./NavigationButton"
 
-export default function MainContent({ currentStep, setCurrentStep, isMobile }) {
+export default function MainContent({ currentStep, setCurrentStep }) {
     const totalSteps = 4
 
     const nextStep = () => {
