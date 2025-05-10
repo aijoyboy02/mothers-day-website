@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mother's Day Website❤️
 
-## Getting Started
+This is a special Mother's Day website created using Next.js, Tailwind CSS, Framer Motion, and React Confetti. The site features an animated countdown, a heart-shaped animation, and a cute message for Mother's Day. The design is mobile-responsive and uses smooth animations to make the experience interactive and engaging.
 
-First, run the development server:
+## Tech Stack🛠️
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js**: For building the React app.
+- **Tailwind CSS**: For styling and creating a responsive layout.
+- **Framer Motion**: For animations like the countdown, heart effects, and smooth transitions.
+- **React Confetti**: To add a little confetti effect at the end to celebrate the occasion.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to Run Locally🔧
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Clone the repository:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   ```bash
+   git clone https://github.com/Anuj579/mothers-day-website.git
+   ```
 
-## Learn More
+2. Navigate into the project directory:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   cd mothers-day-website
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Install dependencies:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+4. Start the development server:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+5. Open your browser and go to `http://localhost:3000` to see the website in action.
+
+## Features✨
+
+- **Animated Heart**: A scaling heart animation to show the love and affection.
+- **Confetti Animation**: A fun confetti effect at the end to celebrate the occasion.
+- **Responsive Design**: The site is fully responsive and works well on mobile and desktop devices.
+
+## Social Media🌐
+
+- Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
+- YouTube: [@anujbuilds](https://youtube.com/anujbuilds)
+- Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
+- LinkedIn: [anujchaudhary549](https://linkedin.com/in/anujchaudhary549)
+
+## Thanks for Checking Out This Project!
+
+If you liked it, consider giving it a ⭐️ on GitHub.
